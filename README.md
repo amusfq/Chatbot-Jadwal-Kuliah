@@ -17,6 +17,8 @@ pip install requests beautifulsoup4 python-telegram-bot
 
 ## Penggunaan
 
+Jalankan pada terminal / CMD
+
 ```bash
 python app.py
 ```
