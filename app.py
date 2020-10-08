@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from telegram.ext import (Updater, CommandHandler, 
         MessageHandler, Filters, ConversationHandler)
 
-TOKEN = "897801904:AAEFt5WoXfuwZiXC_guUma25NO1kj0Us0wk"
+TOKEN = "BOT_TOKEN_DISINI"
 BASE_URL = "http://akademik.narotama.ac.id/akademik/mhs_jadwal.php"
 LOGIN_URL = "http://akademik.narotama.ac.id/akademik/checklogin.php"
 FORM_DATA = {'txtUserID': 'username', 'txtPassword': 'password', 'signIn': 'Login'}
